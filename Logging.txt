@@ -1,1 +1,2 @@
 Checking for git changes.
+Making other changes for commit.
