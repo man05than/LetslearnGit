@@ -7,4 +7,8 @@ class Add {
     void print(){
      Console.Writeline(sum);
     }
+
+    void blankfunc(){
+        
+    }
 }
